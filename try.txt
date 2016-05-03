@@ -1,4 +1,5 @@
 jkjhkhk
+<<<<<<< HEAD
 asdfasd
 asdfasdf
 asd
@@ -42,3 +43,6 @@ a
 sfg
 a
 s
+=======
+sdfasdf
+>>>>>>> parent of 0386d1c... Revert "add a line"
